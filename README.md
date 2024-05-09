@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there! 👋 I'm Diksha Nimbalkar
 
-<!--
-**dikshanimbalkar/dikshanimbalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+         A Passionate Data Analyst
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+
+- Email: [nimbalkardiksha175@gmail.com.com](mailto:your-email@example.com)
+- LinkedIn: [https://www.linkedin.com/in/diksha-nimbalkar](https://www.linkedin.com/in/your-linkedin-profile/)
+- GitHub: [https://github.com/dikshanimbalkar](https://github.com/your-github-username)
+
+_Thanks for visiting my profile!_
+
